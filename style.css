@@ -129,6 +129,17 @@
     filter: grayscale(60%) sepia(30%);
 }
 
+.ex-9-img {
+    transition: 2s;
+}
+
+.ex-9-img:hover {
+    margin: 0;
+    width: 600px;
+    border-radius: 30px;
+    filter: grayscale(60%) sepia(60%);
+}
+
 
 
 
