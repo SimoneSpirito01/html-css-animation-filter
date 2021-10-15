@@ -112,5 +112,14 @@
     filter: grayscale(100%);
 }
 
+.ex-7-img {
+    transition: 2s;
+}
+
+.ex-7-img:hover {
+    filter: sepia(60%);
+}
+
+
 
 
